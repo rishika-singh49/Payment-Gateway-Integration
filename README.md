@@ -1,6 +1,6 @@
 # Payment-Gateway-Integration
 # Sparks-Foundation
-Donation Website namely"Warriors" on the topic"Human-trakiking"
+Donation Website "Warriors" on the topic "Human-trakiking"
 
 The Payment Gateway is integrated by using Razorpay. It supports all the payment modes credit/debit cards, Netbanking from Banks, UPI , wallet.
 
